@@ -1,0 +1,23 @@
+.home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.down {
+  width: 150px;
+}
+
+.BGM {
+  background-color: black;
+}
+
+.dark {
+  color: #ffffff;
+}
+
+.light {
+  color: black;
+}
